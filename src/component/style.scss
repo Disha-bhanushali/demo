@@ -1,0 +1,25 @@
+.page1{
+    h1{
+        color: rgb(255, 255, 255);
+        display: flex;
+        height: 90vh;
+        justify-content: center;
+        align-items: center;
+        font-style: oblique;
+        // font-family: 'Times New Roman', Times, serif;
+        font-size: 500%;
+    }
+    background-color:rgb(255, 243, 80);
+}
+.page2{
+    h1{
+        color: rgb(255, 0, 221);
+        display: flex;
+        height: 90vh;
+        justify-content: center;
+        align-items: center;
+        font-style: oblique;
+        font-size: 500%;
+    }
+    background-color: rgb(115, 255, 0);
+}
